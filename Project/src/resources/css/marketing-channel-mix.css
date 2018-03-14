@@ -1,0 +1,289 @@
+.marketing-spend-container {
+    background-color: rgb(250, 250, 250);
+    height: 150px;
+    padding: 0px 50px;
+}
+
+.estimated-list {
+    display: inline-block;
+    width: 20%;
+}
+
+.other-count {
+    display: inline-block;
+    display: inline-block;
+    text-align: right;
+    padding-left: 30px;
+    float: right;
+    padding-top: 20px;
+}
+
+.absolute-count-container {
+    display: inline-block;
+    height: 150px;
+    padding-left: 30px;
+    padding-top: 45px;
+    border-right: 1px solid rgb(212, 210, 210);
+    padding-right: 30px;
+    text-align: right;
+}
+
+.abs-name {
+    display: block;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.abs-value {
+    letter-spacing: 1px;
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(71, 206, 252);
+}
+
+.oc-value {
+    font-size: 15px;
+    text-align: right;
+    display: block;
+}
+
+.oc-name {
+    font-size: 12px;
+    text-align: right;
+    color: rgb(41, 121, 255);
+    color:#47CAFC;
+}
+
+.other-count-container {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-bottom: 1px solid rgb(212, 210, 210);
+}
+
+.spend-range-component {
+
+}
+
+.marketing-channel-mix-container {
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: 30px 50px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    height: 940px;
+}
+
+.ms-header {
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.spend-range-container .input-range__track--background {
+    height: 10px;
+    border-radius: 7px;
+    background: rgb(212, 228, 255);
+}
+
+.spend-range-container .input-range__track--active {
+    background: rgb(105, 161, 255);
+    background: #47CAFC;
+    height: 10px;
+    border-radius: 7px;
+}
+
+.spend-range-container .input-range__label--value {
+    position: absolute;
+    top: -1.8rem;
+    font-size: 16px;
+    top: -35px;
+    width: 40px;
+    background-color: rgb(241, 242, 243);
+    left: -15px;
+    border-radius: 4px;
+}
+
+.spend-range-container .input-range__label-container {
+    left: -50%;
+    position: relative;
+    left: 8px;
+    color: gray;
+    font-size: 14px;
+}
+.spend-range-container .input-range__label--min {
+    left: 0;
+    display: none;
+}
+
+.spend-range-container .input-range__slider {
+    background: rgb(41, 121, 255);
+    height: 16px;
+    width: 16px;
+    top: -6px;
+    border: none;
+}
+
+.spend-range-container .input-range {
+    height: 1rem;
+    position: relative;
+    width: 100%;
+    margin-top: 20px;
+}
+.spend-range-container .input-range__label--max {
+    right: 0;
+    display: none;
+}
+
+.spend-range-container {
+    display: inline-block;
+    /*width: 100%;*/
+    width: 50%;
+}
+
+.spend {
+    font-size: 12px;
+    padding-top: 10px;
+    color: rgb(41, 121, 255);
+    display: inline-block;
+    color: #47CAFC;
+}
+
+.estimated-list .absolute-count-container {
+    border: none;
+    text-align: left;
+}
+
+.spend-idicator-icon {
+    color: rgb(248, 214, 28);
+    padding-left: 20px;
+}
+
+.portfolio-container {
+    width: 28%;
+    float: left;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+
+.portfolio-list-container {
+    padding: 0px 50px;
+    padding-right: 60px;
+    width: 100%;
+    clear: both;
+}
+
+.portfolio-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.portfolio-figure {
+    display: inline;
+    float: right;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.totol-spend-figure {
+    padding-right: 10px;
+    border-right: 1px solid rgb(128, 128, 128);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.percent-spend {
+    padding-left: 10px;
+}
+
+.channel-name {
+    display: block;
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+}
+
+.portfolio-container div {
+    margin-bottom: 30px;
+
+}
+
+.progress.current-mix {
+    width: 82%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+
+.progress.suggested-mix {
+    width: 82%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+.suggested-mix-figure {
+    position: relative;
+    top: -5px;
+}
+
+.current-mix-figure {
+    position: relative;
+    top: -5px;
+}
+
+.portfolio-container div.progress-container {
+    margin-bottom: 0px;
+}
+
+.progress.suggested-mix .progress-bar {
+    background-color: rgb(45, 203, 116);
+    height: 10px;
+}
+.progress.suggested-mix{
+    background-color: rgb(234, 249, 241);
+    height: 10px;
+}
+.progress.current-mix{
+    background-color: rgba(220, 217, 217,.25);
+    height: 10px;
+}
+.progress.current-mix .progress-bar {
+    background-color: rgb(220, 217, 217);
+    height: 10px;
+}
+.mcm-container{
+    width:100%;
+    clear: both;
+    margin-left: 50px;
+}
+.edit-channel-mix-btn{
+    float: right;
+    margin-right: 150px;
+    color: rgb(41, 121, 255);
+    border: 1px solid rgb(41, 121, 255);
+}
+.mcm-recommended{
+    color: rgb(45, 203, 116);
+    font-size: 20px;
+    padding-right: 20px;
+}
+.mcm-current{
+    color: rgb(220, 217, 217);
+    font-size: 20px;
+    padding-right: 20px;
+}
+.mcm-recommended-text,.mcm-current-text{
+    position: relative;
+    top: -2px;
+    padding-left: 5px;
+    color: rgb(128, 128, 128);
+}
+.last-portfolio-container{
+    width: 33%;
+    margin-right: 0px;
+}

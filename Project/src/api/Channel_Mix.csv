@@ -1,0 +1,37 @@
+Scenario,Channel_Bucket,Channel_Name,Current_Mix,Suggested_Mix
+1,Accounts,KAM,20,30
+1,Accounts,MSL,6,10
+1,Physicians,KAM,20,12
+1,Physicians,MSL,6,7
+1,Physicians,Congress,17,10
+1,Physicians,Advocacy Groups,6,6
+1,Patients,Social Media,5,5
+1,Patients,Patient Support Program,3,3
+1,Patients,Print Media,4,4
+1,Patients,TV,5,5
+1,Patients,Kiosks,4,4
+1,Patients,Paid Search,4,4
+2,Accounts,KAM,20,25
+2,Accounts,MSL,6,17
+2,Physicians,KAM,20,15
+2,Physicians,MSL,6,11
+2,Physicians,Congress,17,6
+2,Physicians,Advocacy Groups,6,4
+2,Patients,Social Media,5,4
+2,Patients,Patient Support Program,3,1
+2,Patients,Print Media,4,6
+2,Patients,TV,5,2
+2,Patients,Kiosks,4,1
+2,Patients,Paid Search,4,8
+3,Accounts,KAM,20,22
+3,Accounts,MSL,6,8
+3,Physicians,KAM,20,24
+3,Physicians,MSL,6,12
+3,Physicians,Congress,17,6
+3,Physicians,Advocacy Groups,6,3
+3,Patients,Social Media,5,9
+3,Patients,Patient Support Program,3,1
+3,Patients,Print Media,4,2
+3,Patients,TV,5,1
+3,Patients,Kiosks,4,2
+3,Patients,Paid Search,4,10

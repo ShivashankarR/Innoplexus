@@ -1,0 +1,77 @@
+.trend-container{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: 30px 50px;
+    -webkit-box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    -moz-box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    box-shadow: 0px 0px 8px 0px rgba(39, 39, 41, 0.45);
+    height: 740px;
+}
+.trend-item{
+    padding: 30px 50px;
+}
+.trend-heading-container{
+    margin-bottom: 100px;
+}
+.trend-title{
+
+}
+.trend-date-field{
+    float: right;
+    color: rgb(41, 121, 255);
+    height: 40px;
+    padding-left: 15px;
+    font-size: 16px;
+    border: 1px solid rgba(41, 121, 255,.45);
+}
+.calender-icon{
+    float: right;
+    font-size: 20px;
+    background-color: #C2D8FF;
+    width: 40px;
+    height: 39px;
+    padding: 10px;
+    color: rgb(41, 121, 255);
+}
+.y-axis-label{
+    letter-spacing: 4px;
+    font-size: 13px;
+}
+.legend-container{
+
+}
+.legend-item{
+    width: 11px;
+    height: 11px;
+    background-color: #5AD3FF;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    margin-right: 7px;
+}
+.legend-item-brand{
+    width: 11px;
+    height: 11px;
+    background-color: #0159AD;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    margin-right: 7px;
+}
+.legend-item-refills{
+    width: 11px;
+    height: 11px;
+    background-color: #297DD6;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    margin-right: 7px;
+}
+.legend-text{
+    font-size: 12px;
+    padding-right: 20px;
+}
